@@ -1,1 +1,4 @@
-##This is my first blog post
+```
+title: "Title"
+date: 2020/09/14
+```
